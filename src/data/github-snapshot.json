@@ -1,0 +1,1260 @@
+{
+ "generatedAt": "2026-11-22",
+ "user": "Mr-AB007",
+ "source": "git history of public repositories (default branch)",
+ "repos": [
+  {
+   "name": "b2-personal-ai",
+   "description": "",
+   "language": "JavaScript",
+   "url": "https://github.com/Mr-AB007/b2-personal-ai",
+   "stars": 0,
+   "createdAt": "2026-11-19T18:50:05Z",
+   "pushedAt": "2026-11-19T18:51:20Z",
+   "commits": 1,
+   "firstCommit": "2026-11-20",
+   "lastCommit": "2026-11-20",
+   "months": {
+    "2026-11": 1
+   },
+   "recent": [
+    {
+     "date": "2026-11-20",
+     "message": "Initial commit: B2 personal AI chatbot"
+    }
+   ]
+  },
+  {
+   "name": "Mr-AB007",
+   "description": "",
+   "language": null,
+   "url": "https://github.com/Mr-AB007/Mr-AB007",
+   "stars": 0,
+   "createdAt": "2025-01-14T16:51:58Z",
+   "pushedAt": "2026-11-19T19:12:03Z",
+   "commits": 39,
+   "firstCommit": "2025-01-14",
+   "lastCommit": "2026-11-20",
+   "months": {
+    "2025-01": 31,
+    "2025-12": 2,
+    "2026-05": 1,
+    "2026-11": 5
+   },
+   "recent": [
+    {
+     "date": "2026-11-20",
+     "message": "Update README.md"
+    },
+    {
+     "date": "2026-11-20",
+     "message": "Update README.md"
+    },
+    {
+     "date": "2026-11-20",
+     "message": "Update README.md"
+    },
+    {
+     "date": "2026-11-20",
+     "message": "Update README.md"
+    },
+    {
+     "date": "2026-11-20",
+     "message": "Update README.md"
+    },
+    {
+     "date": "2026-05-21",
+     "message": "Update README.md"
+    }
+   ]
+  },
+  {
+   "name": "DSA-practice",
+   "description": "",
+   "language": "Java",
+   "url": "https://github.com/Mr-AB007/DSA-practice",
+   "stars": 1,
+   "createdAt": "2025-01-14T16:11:40Z",
+   "pushedAt": "2026-10-25T13:44:08Z",
+   "commits": 115,
+   "firstCommit": "2025-01-14",
+   "lastCommit": "2026-10-25",
+   "months": {
+    "2025-01": 29,
+    "2025-02": 39,
+    "2025-03": 8,
+    "2025-04": 17,
+    "2025-05": 6,
+    "2025-06": 1,
+    "2025-07": 2,
+    "2025-08": 4,
+    "2026-02": 1,
+    "2026-04": 2,
+    "2026-08": 2,
+    "2026-09": 1,
+    "2026-10": 3
+   },
+   "recent": [
+    {
+     "date": "2026-10-25",
+     "message": "Leetcode 387 - frequency count"
+    },
+    {
+     "date": "2026-10-25",
+     "message": "Leetcode 125"
+    },
+    {
+     "date": "2026-10-05",
+     "message": "MissisingNumer_leetcode_268"
+    },
+    {
+     "date": "2026-09-15",
+     "message": "leetcode 49. Group Anagrams"
+    },
+    {
+     "date": "2026-08-03",
+     "message": "Create  MaxPairSumArray.java"
+    },
+    {
+     "date": "2026-08-03",
+     "message": "Create Search_in _Rotated_Sorted.java"
+    }
+   ]
+  },
+  {
+   "name": "applied-mlops",
+   "description": "End-to-end MLOps implementations \u2014 from Python and data pipelines to model training, CI/CD, and production deployment.",
+   "language": "Python",
+   "url": "https://github.com/Mr-AB007/applied-mlops",
+   "stars": 0,
+   "createdAt": "2026-07-20T11:30:26Z",
+   "pushedAt": "2026-11-01T12:02:37Z",
+   "commits": 31,
+   "firstCommit": "2026-07-20",
+   "lastCommit": "2026-09-15",
+   "months": {
+    "2026-07": 19,
+    "2026-08": 6,
+    "2026-09": 6
+   },
+   "recent": [
+    {
+     "date": "2026-09-15",
+     "message": "day 10 - feature-engninnering"
+    },
+    {
+     "date": "2026-09-09",
+     "message": "evaluation_practice.py impl"
+    },
+    {
+     "date": "2026-09-09",
+     "message": "task2"
+    },
+    {
+     "date": "2026-09-09",
+     "message": "task1"
+    },
+    {
+     "date": "2026-09-09",
+     "message": "env setup"
+    },
+    {
+     "date": "2026-09-09",
+     "message": "ml fundamentals learning"
+    }
+   ]
+  },
+  {
+   "name": "Practice",
+   "description": "",
+   "language": "Java",
+   "url": "https://github.com/Mr-AB007/Practice",
+   "stars": 0,
+   "createdAt": "2025-12-28T10:07:52Z",
+   "pushedAt": "2026-07-12T07:54:37Z",
+   "commits": 12,
+   "firstCommit": "2025-12-28",
+   "lastCommit": "2026-07-12",
+   "months": {
+    "2025-12": 2,
+    "2026-02": 1,
+    "2026-03": 4,
+    "2026-05": 1,
+    "2026-06": 3,
+    "2026-07": 1
+   },
+   "recent": [
+    {
+     "date": "2026-07-12",
+     "message": "recursion - part 3 array"
+    },
+    {
+     "date": "2026-06-21",
+     "message": "recursion - part 2"
+    },
+    {
+     "date": "2026-06-21",
+     "message": "recursion - part 2"
+    },
+    {
+     "date": "2026-06-11",
+     "message": "recursion - part 1"
+    },
+    {
+     "date": "2026-05-29",
+     "message": "Stream API practice"
+    },
+    {
+     "date": "2026-03-23",
+     "message": "Stream API practice"
+    }
+   ]
+  },
+  {
+   "name": "smartpay-platform",
+   "description": "Event-driven banking microservices platform using Spring Boot, Kafka, Redis, PostgreSQL, and Docker.",
+   "language": "Java",
+   "url": "https://github.com/Mr-AB007/smartpay-platform",
+   "stars": 1,
+   "createdAt": "2026-05-14T09:23:21Z",
+   "pushedAt": "2026-06-16T11:21:44Z",
+   "commits": 25,
+   "firstCommit": "2026-05-14",
+   "lastCommit": "2026-06-16",
+   "months": {
+    "2026-05": 15,
+    "2026-06": 10
+   },
+   "recent": [
+    {
+     "date": "2026-06-16",
+     "message": "for creating docker image"
+    },
+    {
+     "date": "2026-06-16",
+     "message": "Update .gitlab-ci.yml"
+    },
+    {
+     "date": "2026-06-16",
+     "message": "Update .gitlab-ci.yml"
+    },
+    {
+     "date": "2026-06-16",
+     "message": "Update .gitlab-ci.yml"
+    },
+    {
+     "date": "2026-06-16",
+     "message": "Update .gitlab-ci.yml"
+    },
+    {
+     "date": "2026-06-16",
+     "message": "Update .gitlab-ci.yml"
+    }
+   ]
+  },
+  {
+   "name": "tic-tac-game",
+   "description": "",
+   "language": "JavaScript",
+   "url": "https://github.com/Mr-AB007/tic-tac-game",
+   "stars": 0,
+   "createdAt": "2026-01-31T14:10:45Z",
+   "pushedAt": "2026-01-31T14:34:46Z",
+   "commits": 2,
+   "firstCommit": "2026-01-31",
+   "lastCommit": "2026-01-31",
+   "months": {
+    "2026-01": 2
+   },
+   "recent": [
+    {
+     "date": "2026-01-31",
+     "message": "final commit for game"
+    },
+    {
+     "date": "2026-01-31",
+     "message": "first commit"
+    }
+   ]
+  },
+  {
+   "name": "paymentservice",
+   "description": "",
+   "language": "Java",
+   "url": "https://github.com/Mr-AB007/paymentservice",
+   "stars": 0,
+   "createdAt": "2025-11-15T17:35:57Z",
+   "pushedAt": "2025-12-31T11:25:30Z",
+   "commits": 12,
+   "firstCommit": "2025-11-15",
+   "lastCommit": "2025-12-31",
+   "months": {
+    "2025-11": 11,
+    "2025-12": 1
+   },
+   "recent": [
+    {
+     "date": "2025-12-31",
+     "message": "open-api integration"
+    },
+    {
+     "date": "2025-11-18",
+     "message": "code refactor"
+    },
+    {
+     "date": "2025-11-17",
+     "message": "Eureka service integration"
+    },
+    {
+     "date": "2025-11-16",
+     "message": "code refactor"
+    },
+    {
+     "date": "2025-11-16",
+     "message": "upadte in port"
+    },
+    {
+     "date": "2025-11-15",
+     "message": "controller added"
+    }
+   ]
+  },
+  {
+   "name": "orderservice",
+   "description": "",
+   "language": "Java",
+   "url": "https://github.com/Mr-AB007/orderservice",
+   "stars": 0,
+   "createdAt": "2025-11-15T18:55:35Z",
+   "pushedAt": "2025-12-31T11:22:20Z",
+   "commits": 6,
+   "firstCommit": "2025-11-16",
+   "lastCommit": "2025-12-31",
+   "months": {
+    "2025-11": 5,
+    "2025-12": 1
+   },
+   "recent": [
+    {
+     "date": "2025-12-31",
+     "message": "swagger using Open-api"
+    },
+    {
+     "date": "2025-11-18",
+     "message": "code refactor"
+    },
+    {
+     "date": "2025-11-17",
+     "message": "eureka service integration"
+    },
+    {
+     "date": "2025-11-16",
+     "message": "exception handling coming from other services"
+    },
+    {
+     "date": "2025-11-16",
+     "message": "spring cloud integration"
+    },
+    {
+     "date": "2025-11-16",
+     "message": "Initial commit"
+    }
+   ]
+  },
+  {
+   "name": "productservice",
+   "description": "",
+   "language": "Java",
+   "url": "https://github.com/Mr-AB007/productservice",
+   "stars": 0,
+   "createdAt": "2025-11-12T17:36:52Z",
+   "pushedAt": "2025-12-31T11:25:02Z",
+   "commits": 15,
+   "firstCommit": "2025-11-12",
+   "lastCommit": "2025-12-31",
+   "months": {
+    "2025-11": 14,
+    "2025-12": 1
+   },
+   "recent": [
+    {
+     "date": "2025-12-31",
+     "message": "swagger impl using open-api"
+    },
+    {
+     "date": "2025-11-18",
+     "message": "code refactor"
+    },
+    {
+     "date": "2025-11-17",
+     "message": "Eureka service integration"
+    },
+    {
+     "date": "2025-11-13",
+     "message": "update"
+    },
+    {
+     "date": "2025-11-13",
+     "message": "controller update"
+    },
+    {
+     "date": "2025-11-13",
+     "message": "productservice impl"
+    }
+   ]
+  },
+  {
+   "name": "TradePay",
+   "description": "TradePay: A microservice-based retail transaction system with Product, Order, and Payment services using Spring Boot and Eureka.",
+   "language": null,
+   "url": "https://github.com/Mr-AB007/TradePay",
+   "stars": 0,
+   "createdAt": "2025-11-18T17:05:06Z",
+   "pushedAt": "2025-11-18T18:58:24Z",
+   "commits": 11,
+   "firstCommit": "2025-11-18",
+   "lastCommit": "2025-11-19",
+   "months": {
+    "2025-11": 11
+   },
+   "recent": [
+    {
+     "date": "2025-11-19",
+     "message": "reademe update"
+    },
+    {
+     "date": "2025-11-19",
+     "message": "APi gateway integeration"
+    },
+    {
+     "date": "2025-11-18",
+     "message": "Update README.md"
+    },
+    {
+     "date": "2025-11-18",
+     "message": "Update README.md"
+    },
+    {
+     "date": "2025-11-18",
+     "message": "Update README.md"
+    },
+    {
+     "date": "2025-11-18",
+     "message": "Create README.md"
+    }
+   ]
+  },
+  {
+   "name": "trade-api-gateway",
+   "description": "TradePay API Gateway \u2013 Single entry point for Product, Order, and Payment microservices using Spring Cloud Gateway and Eureka.",
+   "language": "Java",
+   "url": "https://github.com/Mr-AB007/trade-api-gateway",
+   "stars": 0,
+   "createdAt": "2025-11-18T18:48:42Z",
+   "pushedAt": "2025-11-18T18:49:15Z",
+   "commits": 1,
+   "firstCommit": "2025-11-19",
+   "lastCommit": "2025-11-19",
+   "months": {
+    "2025-11": 1
+   },
+   "recent": [
+    {
+     "date": "2025-11-19",
+     "message": "API Gateway integration in TradePay app"
+    }
+   ]
+  },
+  {
+   "name": "service-registry",
+   "description": "",
+   "language": "Java",
+   "url": "https://github.com/Mr-AB007/service-registry",
+   "stars": 0,
+   "createdAt": "2025-11-16T18:34:26Z",
+   "pushedAt": "2025-11-18T17:07:28Z",
+   "commits": 2,
+   "firstCommit": "2025-11-17",
+   "lastCommit": "2025-11-18",
+   "months": {
+    "2025-11": 2
+   },
+   "recent": [
+    {
+     "date": "2025-11-18",
+     "message": "code refactor"
+    },
+    {
+     "date": "2025-11-17",
+     "message": "Eureka service for Shopping cart app"
+    }
+   ]
+  },
+  {
+   "name": "journal-api",
+   "description": "",
+   "language": "Java",
+   "url": "https://github.com/Mr-AB007/journal-api",
+   "stars": 0,
+   "createdAt": "2025-05-27T15:54:03Z",
+   "pushedAt": "2025-08-10T15:54:16Z",
+   "commits": 19,
+   "firstCommit": "2025-05-27",
+   "lastCommit": "2025-08-10",
+   "months": {
+    "2025-05": 7,
+    "2025-06": 6,
+    "2025-08": 6
+   },
+   "recent": [
+    {
+     "date": "2025-08-10",
+     "message": "Update README.md"
+    },
+    {
+     "date": "2025-08-10",
+     "message": "Update README.md"
+    },
+    {
+     "date": "2025-08-10",
+     "message": "Create README.md"
+    },
+    {
+     "date": "2025-08-10",
+     "message": "Weather api integration"
+    },
+    {
+     "date": "2025-08-10",
+     "message": "external api integration"
+    },
+    {
+     "date": "2025-08-03",
+     "message": "ADMIN ROLE BASED IMP"
+    }
+   ]
+  },
+  {
+   "name": "DSA-PYTHON",
+   "description": "",
+   "language": "Python",
+   "url": "https://github.com/Mr-AB007/DSA-PYTHON",
+   "stars": 0,
+   "createdAt": "2025-02-03T17:21:19Z",
+   "pushedAt": "2025-08-01T15:45:24Z",
+   "commits": 63,
+   "firstCommit": "2025-02-03",
+   "lastCommit": "2025-08-01",
+   "months": {
+    "2025-02": 31,
+    "2025-03": 11,
+    "2025-04": 8,
+    "2025-05": 5,
+    "2025-06": 2,
+    "2025-07": 4,
+    "2025-08": 2
+   },
+   "recent": [
+    {
+     "date": "2025-08-01",
+     "message": "Create Linked_List_Cycle_II.py( two pointer floyd)"
+    },
+    {
+     "date": "2025-08-01",
+     "message": "Create Duplicate_Number_leet287.py(two pointer floyd algo)"
+    },
+    {
+     "date": "2025-07-29",
+     "message": "Create leetcode643.py(sliding window)"
+    },
+    {
+     "date": "2025-07-27",
+     "message": "prefix and suffix multiply"
+    },
+    {
+     "date": "2025-07-07",
+     "message": "Create Minimum_starting_val_leet1413.py"
+    },
+    {
+     "date": "2025-07-07",
+     "message": "Create leetcode_1422( prefix sum)"
+    }
+   ]
+  },
+  {
+   "name": "leetcode-dsa-journey",
+   "description": "",
+   "language": "Java",
+   "url": "https://github.com/Mr-AB007/leetcode-dsa-journey",
+   "stars": 0,
+   "createdAt": "2025-04-16T19:33:50Z",
+   "pushedAt": "2025-04-25T17:36:54Z",
+   "commits": 9,
+   "firstCommit": "2025-04-17",
+   "lastCommit": "2025-04-25",
+   "months": {
+    "2025-04": 9
+   },
+   "recent": [
+    {
+     "date": "2025-04-25",
+     "message": "Create SubarraySumEqualsK.java"
+    },
+    {
+     "date": "2025-04-25",
+     "message": "Update README.md"
+    },
+    {
+     "date": "2025-04-25",
+     "message": "Update README.md"
+    },
+    {
+     "date": "2025-04-22",
+     "message": "Create ContinuousArray using hashmap and prefixsum"
+    },
+    {
+     "date": "2025-04-17",
+     "message": "Update README.md"
+    },
+    {
+     "date": "2025-04-17",
+     "message": "Update RangeSumQuery.java"
+    }
+   ]
+  },
+  {
+   "name": "react-apps",
+   "description": "",
+   "language": "JavaScript",
+   "url": "https://github.com/Mr-AB007/react-apps",
+   "stars": 0,
+   "createdAt": "2025-04-13T20:03:15Z",
+   "pushedAt": "2025-04-13T20:05:57Z",
+   "commits": 2,
+   "firstCommit": "2025-04-08",
+   "lastCommit": "2025-04-14",
+   "months": {
+    "2025-04": 2
+   },
+   "recent": [
+    {
+     "date": "2025-04-14",
+     "message": "react changes"
+    },
+    {
+     "date": "2025-04-08",
+     "message": "Initialize project using Create React App"
+    }
+   ]
+  },
+  {
+   "name": "100daysofcode",
+   "description": "100 days of code in python with small project",
+   "language": "Python",
+   "url": "https://github.com/Mr-AB007/100daysofcode",
+   "stars": 0,
+   "createdAt": "2024-09-08T12:29:59Z",
+   "pushedAt": "2025-04-05T17:02:35Z",
+   "commits": 49,
+   "firstCommit": "2024-09-08",
+   "lastCommit": "2025-04-05",
+   "months": {
+    "2024-09": 45,
+    "2024-10": 1,
+    "2025-04": 3
+   },
+   "recent": [
+    {
+     "date": "2025-04-05",
+     "message": "Update password_generator.py"
+    },
+    {
+     "date": "2025-04-05",
+     "message": "Rename Day 20/password_generatorApp.py to Day 20/PasswordGenerator App/password_generator.py"
+    },
+    {
+     "date": "2025-04-05",
+     "message": "Create password_generatorApp.py"
+    },
+    {
+     "date": "2024-10-02",
+     "message": "Turtle race"
+    },
+    {
+     "date": "2024-09-29",
+     "message": "Hirst painting project"
+    },
+    {
+     "date": "2024-09-24",
+     "message": "Quizz project"
+    }
+   ]
+  },
+  {
+   "name": "loan-app",
+   "description": "",
+   "language": "Java",
+   "url": "https://github.com/Mr-AB007/loan-app",
+   "stars": 0,
+   "createdAt": "2025-03-21T15:34:44Z",
+   "pushedAt": "2025-03-23T14:28:55Z",
+   "commits": 14,
+   "firstCommit": "2025-03-21",
+   "lastCommit": "2025-03-23",
+   "months": {
+    "2025-03": 14
+   },
+   "recent": [
+    {
+     "date": "2025-03-23",
+     "message": "Redame Update"
+    },
+    {
+     "date": "2025-03-23",
+     "message": "Security Implementation final"
+    },
+    {
+     "date": "2025-03-23",
+     "message": "Security implementation 2"
+    },
+    {
+     "date": "2025-03-23",
+     "message": "Security implementation"
+    },
+    {
+     "date": "2025-03-23",
+     "message": "Find loan by Customer id"
+    },
+    {
+     "date": "2025-03-23",
+     "message": "initial data for h2 database"
+    }
+   ]
+  },
+  {
+   "name": "task-management",
+   "description": "",
+   "language": "Java",
+   "url": "https://github.com/Mr-AB007/task-management",
+   "stars": 0,
+   "createdAt": "2025-03-19T18:45:30Z",
+   "pushedAt": "2025-03-19T18:58:53Z",
+   "commits": 5,
+   "firstCommit": "2025-03-20",
+   "lastCommit": "2025-03-20",
+   "months": {
+    "2025-03": 5
+   },
+   "recent": [
+    {
+     "date": "2025-03-20",
+     "message": "added API_DOCUMENTATION.md"
+    },
+    {
+     "date": "2025-03-20",
+     "message": "Update README.md"
+    },
+    {
+     "date": "2025-03-20",
+     "message": "Update README.md"
+    },
+    {
+     "date": "2025-03-20",
+     "message": "Update README.md"
+    },
+    {
+     "date": "2025-03-20",
+     "message": "Initial commit - Task Management System"
+    }
+   ]
+  },
+  {
+   "name": "DS-LAB",
+   "description": "Data Structure implementation using C++",
+   "language": "C++",
+   "url": "https://github.com/Mr-AB007/DS-LAB",
+   "stars": 0,
+   "createdAt": "2020-01-22T15:52:10Z",
+   "pushedAt": "2025-01-28T15:22:28Z",
+   "commits": 27,
+   "firstCommit": "2020-01-25",
+   "lastCommit": "2025-01-28",
+   "months": {
+    "2020-01": 1,
+    "2020-02": 8,
+    "2020-03": 2,
+    "2020-04": 6,
+    "2021-02": 3,
+    "2021-09": 4,
+    "2021-11": 1,
+    "2024-09": 1,
+    "2025-01": 1
+   },
+   "recent": [
+    {
+     "date": "2025-01-28",
+     "message": "Update README.md"
+    },
+    {
+     "date": "2024-09-12",
+     "message": "Update README.md"
+    },
+    {
+     "date": "2021-11-16",
+     "message": "Create MRT.cpp"
+    },
+    {
+     "date": "2021-09-27",
+     "message": "Create BinaryTree_Height.cpp"
+    },
+    {
+     "date": "2021-09-26",
+     "message": "Create QueueArmstrong.cpp"
+    },
+    {
+     "date": "2021-09-06",
+     "message": "Rename Stack implementaion using linked list to Stack implementaion using linked list.cpp"
+    }
+   ]
+  },
+  {
+   "name": "library-app",
+   "description": "",
+   "language": "TypeScript",
+   "url": "https://github.com/Mr-AB007/library-app",
+   "stars": 0,
+   "createdAt": "2024-11-27T19:15:39Z",
+   "pushedAt": "2024-12-09T13:43:31Z",
+   "commits": 6,
+   "firstCommit": "2024-11-23",
+   "lastCommit": "2024-12-09",
+   "months": {
+    "2024-11": 2,
+    "2024-12": 4
+   },
+   "recent": [
+    {
+     "date": "2024-12-09",
+     "message": "Merge pull request #1 from Mr-AB007/frontend"
+    },
+    {
+     "date": "2024-12-09",
+     "message": "resloved"
+    },
+    {
+     "date": "2024-12-09",
+     "message": "Merge branch 'main' of github.com:Mr-AB007/library-app"
+    },
+    {
+     "date": "2024-12-09",
+     "message": "Initial commit"
+    },
+    {
+     "date": "2024-11-28",
+     "message": "Initial commit"
+    },
+    {
+     "date": "2024-11-23",
+     "message": "Initialize project using Create React App"
+    }
+   ]
+  },
+  {
+   "name": "Java-Practice",
+   "description": "Probelms solved using Java",
+   "language": "Java",
+   "url": "https://github.com/Mr-AB007/Java-Practice",
+   "stars": 0,
+   "createdAt": "2021-03-01T19:47:39Z",
+   "pushedAt": "2022-03-03T10:58:53Z",
+   "commits": 14,
+   "firstCommit": "2021-03-02",
+   "lastCommit": "2022-03-03",
+   "months": {
+    "2021-03": 2,
+    "2022-03": 12
+   },
+   "recent": [
+    {
+     "date": "2022-03-03",
+     "message": "Create BalencedBrackets.java"
+    },
+    {
+     "date": "2022-03-03",
+     "message": "Create QueueUsing2Stacks.java"
+    },
+    {
+     "date": "2022-03-01",
+     "message": "Create Magic_square_formation.java"
+    },
+    {
+     "date": "2022-03-01",
+     "message": "Create Time_conversion.java"
+    },
+    {
+     "date": "2022-03-01",
+     "message": "Create MinMaxSum.java"
+    },
+    {
+     "date": "2022-03-01",
+     "message": "Create Array_manipulation.java"
+    }
+   ]
+  },
+  {
+   "name": "Python-Practice",
+   "description": "All python Practice codes",
+   "language": "Jupyter Notebook",
+   "url": "https://github.com/Mr-AB007/Python-Practice",
+   "stars": 0,
+   "createdAt": "2021-02-08T05:33:51Z",
+   "pushedAt": "2021-04-19T11:46:53Z",
+   "commits": 10,
+   "firstCommit": "2021-02-08",
+   "lastCommit": "2021-04-19",
+   "months": {
+    "2021-02": 5,
+    "2021-04": 5
+   },
+   "recent": [
+    {
+     "date": "2021-04-19",
+     "message": "Add files via upload"
+    },
+    {
+     "date": "2021-04-19",
+     "message": "Create overriding.py"
+    },
+    {
+     "date": "2021-04-19",
+     "message": "Create Random_guess_game.py"
+    },
+    {
+     "date": "2021-04-19",
+     "message": "Create filehandling.py"
+    },
+    {
+     "date": "2021-04-19",
+     "message": "Create inheritance.py"
+    },
+    {
+     "date": "2021-02-18",
+     "message": "Update gloceryList.py"
+    }
+   ]
+  },
+  {
+   "name": "Census-Income-Prediction",
+   "description": "",
+   "language": "Jupyter Notebook",
+   "url": "https://github.com/Mr-AB007/Census-Income-Prediction",
+   "stars": 0,
+   "createdAt": "2021-04-12T18:24:59Z",
+   "pushedAt": "2021-04-12T18:38:17Z",
+   "commits": 3,
+   "firstCommit": "2021-04-12",
+   "lastCommit": "2021-04-13",
+   "months": {
+    "2021-04": 3
+   },
+   "recent": [
+    {
+     "date": "2021-04-13",
+     "message": "Delete deploy.py"
+    },
+    {
+     "date": "2021-04-13",
+     "message": "Census Income prediction project"
+    },
+    {
+     "date": "2021-04-12",
+     "message": "Initial commit"
+    }
+   ]
+  },
+  {
+   "name": "Contest-CP",
+   "description": "Competitive Coding contest solutions",
+   "language": "Java",
+   "url": "https://github.com/Mr-AB007/Contest-CP",
+   "stars": 0,
+   "createdAt": "2021-02-05T19:03:52Z",
+   "pushedAt": "2021-03-05T21:27:13Z",
+   "commits": 5,
+   "firstCommit": "2021-02-06",
+   "lastCommit": "2021-03-06",
+   "months": {
+    "2021-02": 3,
+    "2021-03": 2
+   },
+   "recent": [
+    {
+     "date": "2021-03-06",
+     "message": "Create Cryptorithms.java"
+    },
+    {
+     "date": "2021-03-06",
+     "message": "Create PerfectSqareEvenDigit.java"
+    },
+    {
+     "date": "2021-02-06",
+     "message": "Create highestDivisor.cpp"
+    },
+    {
+     "date": "2021-02-06",
+     "message": "Update MaxmiseFun.cpp"
+    },
+    {
+     "date": "2021-02-06",
+     "message": "Create MaxmiseFun.cpp"
+    }
+   ]
+  },
+  {
+   "name": "CPP-program",
+   "description": "All the program of cpp",
+   "language": "C++",
+   "url": "https://github.com/Mr-AB007/CPP-program",
+   "stars": 0,
+   "createdAt": "2020-02-08T15:29:10Z",
+   "pushedAt": "2021-03-02T12:05:29Z",
+   "commits": 12,
+   "firstCommit": "2020-02-08",
+   "lastCommit": "2021-03-02",
+   "months": {
+    "2020-02": 3,
+    "2020-04": 4,
+    "2021-02": 3,
+    "2021-03": 2
+   },
+   "recent": [
+    {
+     "date": "2021-03-02",
+     "message": "Add files via upload"
+    },
+    {
+     "date": "2021-03-02",
+     "message": "Add files via upload"
+    },
+    {
+     "date": "2021-02-08",
+     "message": "Rename LAB1 to LAB1.cpp"
+    },
+    {
+     "date": "2021-02-08",
+     "message": "Rename Common friend function to Common friend function.cpp"
+    },
+    {
+     "date": "2021-02-08",
+     "message": "Finding the most 0s containing row of a matrix"
+    },
+    {
+     "date": "2020-04-09",
+     "message": "Rename student record using class to student record using class.cpp"
+    }
+   ]
+  },
+  {
+   "name": "DSA-Assignments",
+   "description": "Important competitive  programming problems using java",
+   "language": "Java",
+   "url": "https://github.com/Mr-AB007/DSA-Assignments",
+   "stars": 0,
+   "createdAt": "2021-02-13T16:05:13Z",
+   "pushedAt": "2021-02-23T10:13:48Z",
+   "commits": 103,
+   "firstCommit": "2021-02-14",
+   "lastCommit": "2021-02-23",
+   "months": {
+    "2021-02": 103
+   },
+   "recent": [
+    {
+     "date": "2021-02-23",
+     "message": "Rename   LonestPalimdromicSub.java"
+    },
+    {
+     "date": "2021-02-23",
+     "message": "Create  MaxSumNoAdjecentElement.java"
+    },
+    {
+     "date": "2021-02-23",
+     "message": "Update MinjumptoEnd.java"
+    },
+    {
+     "date": "2021-02-23",
+     "message": "Create MinjumptoEnd.java"
+    },
+    {
+     "date": "2021-02-23",
+     "message": "Create ClimbingStairs.java"
+    },
+    {
+     "date": "2021-02-23",
+     "message": "Create EditDistance.java"
+    }
+   ]
+  }
+ ],
+ "daily": {
+  "2020-01-25": 1,
+  "2020-02-05": 1,
+  "2020-02-06": 1,
+  "2020-02-08": 6,
+  "2020-02-19": 1,
+  "2020-02-20": 2,
+  "2020-03-28": 2,
+  "2020-04-09": 10,
+  "2021-02-06": 3,
+  "2021-02-08": 5,
+  "2021-02-14": 4,
+  "2021-02-15": 4,
+  "2021-02-16": 13,
+  "2021-02-17": 14,
+  "2021-02-18": 16,
+  "2021-02-19": 11,
+  "2021-02-20": 14,
+  "2021-02-21": 15,
+  "2021-02-22": 1,
+  "2021-02-23": 17,
+  "2021-03-02": 4,
+  "2021-03-06": 2,
+  "2021-04-12": 1,
+  "2021-04-13": 2,
+  "2021-04-19": 5,
+  "2021-09-06": 2,
+  "2021-09-26": 1,
+  "2021-09-27": 1,
+  "2021-11-16": 1,
+  "2022-03-01": 10,
+  "2022-03-03": 2,
+  "2024-09-08": 11,
+  "2024-09-10": 6,
+  "2024-09-12": 3,
+  "2024-09-14": 8,
+  "2024-09-15": 3,
+  "2024-09-16": 2,
+  "2024-09-17": 4,
+  "2024-09-18": 2,
+  "2024-09-20": 2,
+  "2024-09-21": 2,
+  "2024-09-22": 1,
+  "2024-09-24": 1,
+  "2024-09-29": 1,
+  "2024-10-02": 1,
+  "2024-11-23": 1,
+  "2024-11-28": 1,
+  "2024-12-09": 4,
+  "2025-01-14": 26,
+  "2025-01-15": 5,
+  "2025-01-16": 10,
+  "2025-01-18": 2,
+  "2025-01-19": 1,
+  "2025-01-21": 3,
+  "2025-01-24": 3,
+  "2025-01-25": 2,
+  "2025-01-26": 2,
+  "2025-01-28": 3,
+  "2025-01-29": 1,
+  "2025-01-30": 3,
+  "2025-02-01": 4,
+  "2025-02-03": 4,
+  "2025-02-05": 2,
+  "2025-02-08": 3,
+  "2025-02-10": 5,
+  "2025-02-11": 1,
+  "2025-02-13": 4,
+  "2025-02-15": 3,
+  "2025-02-16": 5,
+  "2025-02-17": 2,
+  "2025-02-19": 2,
+  "2025-02-20": 5,
+  "2025-02-21": 4,
+  "2025-02-22": 2,
+  "2025-02-24": 3,
+  "2025-02-25": 4,
+  "2025-02-26": 5,
+  "2025-02-27": 7,
+  "2025-02-28": 5,
+  "2025-03-01": 2,
+  "2025-03-02": 1,
+  "2025-03-03": 5,
+  "2025-03-20": 5,
+  "2025-03-21": 3,
+  "2025-03-22": 7,
+  "2025-03-23": 6,
+  "2025-03-24": 3,
+  "2025-03-25": 2,
+  "2025-03-27": 4,
+  "2025-04-02": 2,
+  "2025-04-05": 8,
+  "2025-04-06": 3,
+  "2025-04-08": 5,
+  "2025-04-14": 1,
+  "2025-04-17": 8,
+  "2025-04-22": 2,
+  "2025-04-23": 2,
+  "2025-04-25": 5,
+  "2025-04-26": 1,
+  "2025-04-27": 2,
+  "2025-05-02": 1,
+  "2025-05-08": 5,
+  "2025-05-20": 1,
+  "2025-05-27": 1,
+  "2025-05-28": 3,
+  "2025-05-29": 2,
+  "2025-05-31": 5,
+  "2025-06-01": 1,
+  "2025-06-02": 3,
+  "2025-06-25": 4,
+  "2025-06-27": 1,
+  "2025-07-07": 2,
+  "2025-07-27": 1,
+  "2025-07-29": 3,
+  "2025-08-01": 3,
+  "2025-08-03": 1,
+  "2025-08-10": 5,
+  "2025-08-11": 3,
+  "2025-11-12": 9,
+  "2025-11-13": 3,
+  "2025-11-15": 7,
+  "2025-11-16": 5,
+  "2025-11-17": 4,
+  "2025-11-18": 13,
+  "2025-11-19": 3,
+  "2025-12-28": 2,
+  "2025-12-31": 5,
+  "2026-01-31": 2,
+  "2026-02-13": 1,
+  "2026-02-28": 1,
+  "2026-03-23": 4,
+  "2026-04-23": 2,
+  "2026-05-14": 3,
+  "2026-05-15": 1,
+  "2026-05-18": 3,
+  "2026-05-19": 2,
+  "2026-05-21": 1,
+  "2026-05-24": 2,
+  "2026-05-28": 1,
+  "2026-05-29": 1,
+  "2026-05-30": 3,
+  "2026-06-02": 3,
+  "2026-06-11": 1,
+  "2026-06-16": 7,
+  "2026-06-21": 2,
+  "2026-07-12": 1,
+  "2026-07-20": 3,
+  "2026-07-22": 6,
+  "2026-07-23": 4,
+  "2026-07-27": 2,
+  "2026-07-28": 2,
+  "2026-07-29": 2,
+  "2026-08-03": 2,
+  "2026-08-06": 1,
+  "2026-08-11": 5,
+  "2026-09-09": 5,
+  "2026-09-15": 2,
+  "2026-10-05": 1,
+  "2026-10-25": 2,
+  "2026-11-20": 6
+ }
+}

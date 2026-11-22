@@ -1,0 +1,58 @@
+name: Deploy portfolio
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '30 2 * * 1' # weekly: refresh the GitHub activity snapshot
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Refresh GitHub activity snapshot
+        # Non-fatal: if anything fails, the committed snapshot is used.
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: Mr-AB007
+        run: |
+          mkdir -p /tmp/clones
+          curl -sf -H "Authorization: Bearer $GH_TOKEN" \
+            "https://api.github.com/users/$GH_USER/repos?per_page=100&type=owner" > /tmp/repos.json
+          for name in $(python3 -c "import json;[print(r['name']) for r in json.load(open('/tmp/repos.json')) if not r['private'] and not r['fork'] and r['size']>0]"); do
+            git clone -q --filter=blob:none --no-checkout "https://github.com/$GH_USER/$name.git" "/tmp/clones/$name" || true
+          done
+          python3 scripts/build-github-snapshot.py /tmp/clones /tmp/repos.json
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
